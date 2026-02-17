@@ -1,6 +1,6 @@
 # HTML-Resume-Page
 
-This a resume page built using HTML only.
+This is a resume page built using HTML only.
 
 ## Live Demo
 
